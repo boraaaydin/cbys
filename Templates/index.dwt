@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//TR" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<meta name="Abstract" content="camasir askiligi, boya tanki, jant duzeltme, kaynak aparati,imalat ">
+<meta name="copyright" content="©2013 cbysmakina.com ">
+<meta name="author" content="Semra Aydın, semra.izmit@gmail.com">
+<meta  http-equiv="content-language"= content="tr">
+<meta name="revisit-after" content="7 days">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>cbys makine</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="sayfa_alt">
+  <div id="baslik_alt">
+    <div id="baslik_ust">
+      <div id="logoson"></div>
+    </div>
+  </div>
+  <div id="ortabolum">
+    <div id="content">
+      <div id="yanmenu"></div>
+      <div id="ortaalan">
+        <div id="menubar">
+          <ul>
+            <li><a href="../index.html" target="_self">ANASAYFA</a></li>
+            <li><a href="../hakkinda.html" target="_self">HAKKINDA</a></li>
+            <li><a href="../projeler.html" target="_self">PROJELER</a></li> 
+            <li><a href="../referanslar.html" target="_self">REFERANSLAR</a></li>              
+            <li><a href="../galeri.html" target="_self">GALERİ</a></li>
+            <li><a href="../iletisim.html" target="_top">İLETİŞİM</a></li>
+          </ul>
+        </div>
+        <div id="icerikbolumu">
+          <div id="icerik1"></div>
+          <!-- TemplateBeginEditable name="ice1" -->
+          <div id="icerik2">
+          <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CBYS MAKİNA</h1>
+            <marquee>
+            </marquee>
+          </div>
+          <!-- TemplateEndEditable -->
+          <div id="icerik3"></div>
+          <!-- TemplateBeginEditable name="ice2" -->
+          <div id="icerik4">
+            <p>Makina İmalat sektöründe 25 yıllık hizmetlerimiz sonunda kazandığımız   tecrübemizle kurduğumuz CBYS Makinayı tasarım, imalat ve danışmanlık   konularında farklı anlayış ve özveriyle ülkemiz sanayisine faydalı ürünler üreterek hizmet etmek amacıyla kurduk.
+            <p>Makina İmalat sektöründe 25 yıllık hizmetlerimiz sonunda kazandığımız tecrübemizle kurduğumuz CBYS Makinayı tasarım, imalat ve danışmanlık konularında farklı anlayış ve özveriyle ülkemiz sanayisine faydalı ürünler üreterek hizmet etmek amacıyla kurduk.             
+            <p>             
+          </div>
+          <!-- TemplateEndEditable -->
+          <div id="icerik5"></div>
+          <div id="icerik6"></div>
+          <!-- TemplateBeginEditable name="ice3" -->
+          <div id="icerik7">
+            <p>CBYS Makinayı tasarım, imalat ve danışmanlık konularında farklı anlayış ve özveriyle ülkemiz sanayisine faydalı ürünler üreterek hizmet etmek amacıyla kurduk. </p>
+          </div>
+          <!-- TemplateEndEditable -->
+          <div id="icerik8"></div>
+          <div id="clear_icerik"></div>
+        </div>
+      </div>
+    </div>
+    <div id="sagyanmenu"></div>
+    <div id="clear"></div>                                                                                                                                            </div>
+  <div id="footer_alt">
+    <div id="footer_ust">
+      <div id="footer_menuler">
+        <ul>
+          <li><a href="../index.html" target="_self">Anasayfa</a></li>
+          <li><a href="../hakkinda.html" target="_self">Hakkında</a></li>
+          <li><a href="../projeler.html" target="_self">Projeler</a></li>
+           <li><a href="../referanslar.html" target="_self">Referanslar</a></li>
+          <li><a href="../galeri.html" target="_self">Galeri</a></li>
+          <li><a href="../iletisim.html" target="_self">İletişim</a></li>
+        </ul>
+      </div>
+      <div id="ikincibolum">
+        <p>2013 CBYS MAKİNA © Tüm Hakları Saklıdır.
+        </p>
+        <p>Hazrlayan : Semra Sancaktar Aydın </p>
+      </div>
+</div>
+    </div>
+    </div>
+</div>
+</body>
+</html>
